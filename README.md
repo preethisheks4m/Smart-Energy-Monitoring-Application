@@ -1,2 +1,2 @@
-# Panimalar_Smart energy monitoring application
+# Smart energy monitoring application
 
