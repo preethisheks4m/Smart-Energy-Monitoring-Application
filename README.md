@@ -1,2 +1,2 @@
-# panimalar_iot_2021
-Panimalar Energy Monitor_2021
+# Panimalar_Smart energy monitoring application
+
